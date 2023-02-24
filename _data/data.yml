@@ -1,6 +1,6 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Tauvic Ritter
+  title: Software Engineer
   avatar:
     display: true
     path: profile.png
@@ -8,8 +8,8 @@ basic:
 contact:
   location:
   email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  phone: +31 20 258 8556
+  website: novisource.nl
   wechat:
   whatsapp:
   telegram:
@@ -18,7 +18,7 @@ contact:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/tauvicritter/
   medium:
   twitter: twitter
   stackoverflow:
