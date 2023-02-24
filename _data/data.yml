@@ -18,7 +18,7 @@ contact:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin: https://www.linkedin.com/in/tauvicritter/
+  linkedin: tauvicritter/
   medium:
   twitter: twitter
   stackoverflow:
@@ -102,17 +102,6 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
     - university: Example University
       time: 2011 - 2015
       major: Computer Science
